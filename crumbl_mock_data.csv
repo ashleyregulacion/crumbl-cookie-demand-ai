@@ -1,0 +1,151 @@
+week,store_id,location,flavor,weather,holiday,social_media_mentions,sales
+1,001,Utah,Chocolate Chip,Cloudy,Yes,169,674
+1,001,Utah,Pink Sugar,Sunny,No,287,751
+1,001,Utah,Oreo,Sunny,No,126,444
+1,001,Utah,Peanut Butter,Rainy,Yes,84,443
+1,001,Utah,Lemon Glaze,Sunny,No,217,403
+1,002,Texas,Chocolate Chip,Cloudy,Yes,244,259
+1,002,Texas,Pink Sugar,Rainy,No,279,383
+1,002,Texas,Oreo,Rainy,Yes,211,318
+1,002,Texas,Peanut Butter,Sunny,Yes,158,604
+1,002,Texas,Lemon Glaze,Sunny,No,284,209
+1,003,California,Chocolate Chip,Cloudy,Yes,263,454
+1,003,California,Pink Sugar,Cloudy,Yes,283,587
+1,003,California,Oreo,Rainy,Yes,79,969
+1,003,California,Peanut Butter,Cloudy,No,187,906
+1,003,California,Lemon Glaze,Cloudy,No,67,604
+2,001,Utah,Chocolate Chip,Sunny,Yes,55,539
+2,001,Utah,Pink Sugar,Cloudy,Yes,98,749
+2,001,Utah,Oreo,Cloudy,No,289,293
+2,001,Utah,Peanut Butter,Rainy,Yes,193,293
+2,001,Utah,Lemon Glaze,Rainy,No,124,700
+2,002,Texas,Chocolate Chip,Rainy,No,285,949
+2,002,Texas,Pink Sugar,Cloudy,Yes,287,666
+2,002,Texas,Oreo,Cloudy,No,286,550
+2,002,Texas,Peanut Butter,Cloudy,Yes,66,286
+2,002,Texas,Lemon Glaze,Cloudy,Yes,58,484
+2,003,California,Chocolate Chip,Cloudy,Yes,232,653
+2,003,California,Pink Sugar,Cloudy,Yes,249,242
+2,003,California,Oreo,Sunny,No,248,954
+2,003,California,Peanut Butter,Rainy,No,244,884
+2,003,California,Lemon Glaze,Rainy,Yes,279,288
+3,001,Utah,Chocolate Chip,Sunny,Yes,256,318
+3,001,Utah,Pink Sugar,Rainy,Yes,193,881
+3,001,Utah,Oreo,Rainy,No,298,881
+3,001,Utah,Peanut Butter,Sunny,No,84,768
+3,001,Utah,Lemon Glaze,Cloudy,No,273,271
+3,002,Texas,Chocolate Chip,Sunny,Yes,208,701
+3,002,Texas,Pink Sugar,Rainy,No,96,753
+3,002,Texas,Oreo,Sunny,No,141,945
+3,002,Texas,Peanut Butter,Cloudy,Yes,123,853
+3,002,Texas,Lemon Glaze,Sunny,Yes,238,701
+3,003,California,Chocolate Chip,Rainy,No,77,635
+3,003,California,Pink Sugar,Sunny,Yes,180,476
+3,003,California,Oreo,Rainy,Yes,100,304
+3,003,California,Peanut Butter,Rainy,No,79,809
+3,003,California,Lemon Glaze,Cloudy,No,120,228
+4,001,Utah,Chocolate Chip,Sunny,No,296,272
+4,001,Utah,Pink Sugar,Sunny,Yes,116,884
+4,001,Utah,Oreo,Rainy,No,146,972
+4,001,Utah,Peanut Butter,Cloudy,No,274,467
+4,001,Utah,Lemon Glaze,Rainy,Yes,196,828
+4,002,Texas,Chocolate Chip,Rainy,Yes,259,476
+4,002,Texas,Pink Sugar,Rainy,Yes,154,432
+4,002,Texas,Oreo,Rainy,Yes,52,328
+4,002,Texas,Peanut Butter,Sunny,Yes,104,890
+4,002,Texas,Lemon Glaze,Rainy,No,117,367
+4,003,California,Chocolate Chip,Cloudy,No,255,893
+4,003,California,Pink Sugar,Rainy,Yes,204,872
+4,003,California,Oreo,Sunny,Yes,137,775
+4,003,California,Peanut Butter,Rainy,No,270,410
+4,003,California,Lemon Glaze,Cloudy,No,185,325
+5,001,Utah,Chocolate Chip,Rainy,No,100,973
+5,001,Utah,Pink Sugar,Cloudy,Yes,259,260
+5,001,Utah,Oreo,Sunny,Yes,230,970
+5,001,Utah,Peanut Butter,Cloudy,No,116,714
+5,001,Utah,Lemon Glaze,Sunny,Yes,71,650
+5,002,Texas,Chocolate Chip,Rainy,Yes,192,611
+5,002,Texas,Pink Sugar,Cloudy,No,184,709
+5,002,Texas,Oreo,Cloudy,Yes,125,864
+5,002,Texas,Peanut Butter,Sunny,Yes,133,790
+5,002,Texas,Lemon Glaze,Sunny,Yes,240,391
+5,003,California,Chocolate Chip,Cloudy,Yes,125,396
+5,003,California,Pink Sugar,Rainy,No,76,720
+5,003,California,Oreo,Rainy,Yes,147,994
+5,003,California,Peanut Butter,Rainy,No,191,997
+5,003,California,Lemon Glaze,Cloudy,Yes,91,864
+6,001,Utah,Chocolate Chip,Sunny,Yes,252,474
+6,001,Utah,Pink Sugar,Cloudy,Yes,196,872
+6,001,Utah,Oreo,Sunny,Yes,128,773
+6,001,Utah,Peanut Butter,Sunny,Yes,196,485
+6,001,Utah,Lemon Glaze,Cloudy,Yes,94,343
+6,002,Texas,Chocolate Chip,Rainy,No,151,473
+6,002,Texas,Pink Sugar,Sunny,Yes,296,239
+6,002,Texas,Oreo,Cloudy,No,179,797
+6,002,Texas,Peanut Butter,Sunny,Yes,156,749
+6,002,Texas,Lemon Glaze,Rainy,Yes,114,703
+6,003,California,Chocolate Chip,Sunny,Yes,222,839
+6,003,California,Pink Sugar,Rainy,Yes,89,953
+6,003,California,Oreo,Rainy,Yes,132,214
+6,003,California,Peanut Butter,Rainy,Yes,298,362
+6,003,California,Lemon Glaze,Sunny,No,195,469
+7,001,Utah,Chocolate Chip,Cloudy,Yes,259,254
+7,001,Utah,Pink Sugar,Rainy,No,109,869
+7,001,Utah,Oreo,Rainy,Yes,73,784
+7,001,Utah,Peanut Butter,Sunny,No,108,641
+7,001,Utah,Lemon Glaze,Cloudy,No,285,693
+7,002,Texas,Chocolate Chip,Rainy,No,293,654
+7,002,Texas,Pink Sugar,Cloudy,Yes,125,317
+7,002,Texas,Oreo,Cloudy,Yes,164,231
+7,002,Texas,Peanut Butter,Cloudy,No,159,951
+7,002,Texas,Lemon Glaze,Rainy,No,205,517
+7,003,California,Chocolate Chip,Sunny,Yes,58,784
+7,003,California,Pink Sugar,Sunny,Yes,149,352
+7,003,California,Oreo,Sunny,Yes,60,622
+7,003,California,Peanut Butter,Sunny,No,167,809
+7,003,California,Lemon Glaze,Rainy,Yes,292,422
+8,001,Utah,Chocolate Chip,Sunny,Yes,85,460
+8,001,Utah,Pink Sugar,Rainy,Yes,210,514
+8,001,Utah,Oreo,Rainy,Yes,113,980
+8,001,Utah,Peanut Butter,Cloudy,Yes,234,964
+8,001,Utah,Lemon Glaze,Sunny,Yes,244,324
+8,002,Texas,Chocolate Chip,Sunny,Yes,266,560
+8,002,Texas,Pink Sugar,Sunny,Yes,119,947
+8,002,Texas,Oreo,Cloudy,No,231,763
+8,002,Texas,Peanut Butter,Cloudy,No,76,281
+8,002,Texas,Lemon Glaze,Sunny,No,173,865
+8,003,California,Chocolate Chip,Cloudy,Yes,270,899
+8,003,California,Pink Sugar,Cloudy,No,219,358
+8,003,California,Oreo,Rainy,No,162,376
+8,003,California,Peanut Butter,Rainy,No,193,430
+8,003,California,Lemon Glaze,Rainy,Yes,156,543
+9,001,Utah,Chocolate Chip,Rainy,No,90,368
+9,001,Utah,Pink Sugar,Sunny,No,285,237
+9,001,Utah,Oreo,Rainy,Yes,288,916
+9,001,Utah,Peanut Butter,Sunny,Yes,251,322
+9,001,Utah,Lemon Glaze,Sunny,No,212,655
+9,002,Texas,Chocolate Chip,Rainy,No,184,324
+9,002,Texas,Pink Sugar,Sunny,No,219,504
+9,002,Texas,Oreo,Sunny,No,82,222
+9,002,Texas,Peanut Butter,Sunny,No,260,565
+9,002,Texas,Lemon Glaze,Cloudy,Yes,126,787
+9,003,California,Chocolate Chip,Sunny,Yes,300,990
+9,003,California,Pink Sugar,Rainy,No,210,897
+9,003,California,Oreo,Cloudy,Yes,286,284
+9,003,California,Peanut Butter,Sunny,Yes,208,245
+9,003,California,Lemon Glaze,Rainy,No,136,792
+10,001,Utah,Chocolate Chip,Rainy,No,245,660
+10,001,Utah,Pink Sugar,Cloudy,No,297,401
+10,001,Utah,Oreo,Cloudy,No,236,816
+10,001,Utah,Peanut Butter,Sunny,Yes,209,341
+10,001,Utah,Lemon Glaze,Cloudy,Yes,50,985
+10,002,Texas,Chocolate Chip,Rainy,Yes,201,976
+10,002,Texas,Pink Sugar,Sunny,Yes,238,515
+10,002,Texas,Oreo,Sunny,Yes,51,297
+10,002,Texas,Peanut Butter,Cloudy,No,58,968
+10,002,Texas,Lemon Glaze,Sunny,Yes,160,964
+10,003,California,Chocolate Chip,Rainy,No,225,204
+10,003,California,Pink Sugar,Sunny,Yes,162,541
+10,003,California,Oreo,Rainy,No,138,505
+10,003,California,Peanut Butter,Sunny,Yes,282,974
+10,003,California,Lemon Glaze,Sunny,Yes,184,351
